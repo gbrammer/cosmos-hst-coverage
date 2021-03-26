@@ -10,7 +10,6 @@ ENV HOME /home/${NB_USER}
 
 # Edited for amazonlinux
 RUN adduser \
-    --comment "Default user" \
     --uid ${NB_UID} \
     ${NB_USER}
 
