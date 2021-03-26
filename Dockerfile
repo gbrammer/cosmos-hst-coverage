@@ -1,4 +1,4 @@
-FROM gbrammer/grizli-lambda:latest
+FROM gbrammer/eazy-deepnote:latest
 
 ### https://github.com/binder-examples/minimal-dockerfile/blob/master/Dockerfile
 
